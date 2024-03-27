@@ -5,6 +5,10 @@
 ##### Test Content H5
 ###### Test Content H6
 
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ![Image](https://octodex.github.com/images/yaktocat.png)
 
 ``` C#
