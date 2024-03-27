@@ -6,3 +6,12 @@
 ###### Test Content H6
 
 ![Image](https://octodex.github.com/images/yaktocat.png)
+
+``` C#
+var myVar = "Hello, world!";
+```
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
