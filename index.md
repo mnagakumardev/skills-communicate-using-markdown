@@ -4,3 +4,5 @@
 #### Test Content H4
 ##### Test Content H5
 ###### Test Content H6
+
+![Image](https://octodex.github.com/images/yaktocat.png)
